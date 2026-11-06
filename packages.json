@@ -1,0 +1,23 @@
+[
+  {
+    "package": "econid",
+    "url": "https://github.com/teal-insights/r-econid"
+  },
+  {
+    "package": "imfapi",
+    "url": "https://github.com/teal-insights/r-imfapi"
+  },
+  {
+    "package": "imfweo",
+    "url": "https://github.com/teal-insights/r-imfweo"
+  },
+  {
+    "package": "saisdata",
+    "url": "https://github.com/Teal-Insights/saisdata",
+    "branch": "v0.1.0"
+  },
+  {
+    "package": "wbids",
+    "url": "https://github.com/teal-insights/r-wbids"
+  }
+]
